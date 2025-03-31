@@ -28,7 +28,7 @@ const Page = () => {
       <Banner heading="Services" breadcrumbs={"Services"} />
 
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto mt-20 mb-20">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto mt-20 mb-20 p-5 ">
   {services.map((service, index) => (
     <Link 
       href={`/service/${service.slug}`} 
