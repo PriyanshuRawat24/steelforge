@@ -13,38 +13,37 @@ export default function Home() {
   return (
     <>
 
-    {/* hero-section */}
+      {/* hero-section */}
 
-    <Hero/>
+      <Hero />
 
-    {/* about section */}
+      {/* about section */}
 
-    <About/>
+      <About />
 
-    {/* comapny */}
+      {/* comapny */}
+      <Company/>
 
-    <Company/>
 
-    {/* service */}
+      {/* service */}
+      <Service />
 
-    <Service/>
+      {/* project */}
 
-    {/* project */}
+      <Projects />
 
-    <Projects/>
+      {/* achivement */}
 
-    {/* achivement */}
+      <Achievement />
 
-    <Achievement/>
+      {/* our team */}
 
-    {/* our team */}
+      <Team />
 
-    <Team/>
+      {/* testimonial */}
 
-    {/* testimonial */}
-    
-    <Testimonial/>  
-      
+      <Testimonial />
+
     </>
   );
 }

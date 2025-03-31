@@ -50,7 +50,7 @@ export default function Team({className}) {
   ];
 
   return (
-    <section className={`container mx-auto px-4 py-16 mt-[-25rem] max-w-7xl ${className}`}>
+    <section className={`container mx-auto px-4 py-16 max-w-7xl ${className}`}>
       <div className="text-center mb-12">
         <h3 className="uppercase text-gray-600 font-medium tracking-wider mb-2">
           OUR TEAM

@@ -42,7 +42,7 @@ export default function Header() {
                     <ul className='flex flex-col items-center space-y-4'>
                         <li><Link href="/" onClick={() => setIsOpen(false)}>Home</Link></li>
                         <li><Link href="/about" onClick={() => setIsOpen(false)}>About</Link></li>
-                        <li><Link href="/property" onClick={() => setIsOpen(false)}>Property</Link></li>
+                        <li><Link href="/service" onClick={() => setIsOpen(false)}>Property</Link></li>
                         <li><Link href="/contact" onClick={() => setIsOpen(false)}>Contact</Link></li>
                         <li><button className='px-4 py-2 bg-[var(--white)] text-[var(--orange1)] rounded-lg  hover:bg-[var(--orange2)]' onClick={() => setIsOpen(false)}>Sign Up</button></li>
                     </ul>

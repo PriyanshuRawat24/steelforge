@@ -12,9 +12,9 @@ const Page = () => {
     <>
 
       <Banner heading="About Us" breadcrumbs={"About"} />
-      <About className={"!important "}/>
-      <Counter className={"md:pt-[30rem]"}/>
-      <Team className={"pt-[600px]"}/>
+      <About/>
+      <Counter/>
+      <Team/>
       <Company />
     </>
   )
