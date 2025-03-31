@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Custom Steel Production",
+        "image": "/service1.jpg",
+        "description": "Precision-engineered steel solutions tailored to your specific industrial requirements.",
+        "slug": "custom-steel-production"
+    },
+    {
+        "title": "Custom Steel",
+        "image": "/service2.jpg",
+        "description": "Expert fabrication services delivering high-quality, custom steel components.",
+        "slug": "custom-steel"
+    },
+    {
+        "title": "Custom Steel Casting",
+        "image": "/service3.jpg",
+        "description": "Advanced casting techniques ensuring superior quality and structural integrity.",
+        "slug": "custom-steel-casting"
+    },
+    {
+        "title": "Rolling Mill Service",
+        "image": "/service4.jpg",
+        "description": "Comprehensive rolling mill services for optimal steel processing and performance.",
+        "slug": "rolling-mill-service"
+    },
+    {
+        "title": "Custom Casting",
+        "image": "/service3.jpg",
+        "description": "Advanced casting techniques ensuring superior quality and structural integrity.",
+        "slug": "custom-casting"
+    },
+    {
+        "title": "Custom Steel Fabrication",
+        "image": "/service2.jpg",
+        "description": "Expert fabrication services delivering high-quality, custom steel components.",
+        "slug": "custom-steel-fabrication"
+        
+    }
+]
